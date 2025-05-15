@@ -1,0 +1,480 @@
+Truck 2:
+  Optimized Route: City_61 -> City_54
+  Total Distance: 2444326.00 meters
+
+Truck 3:
+  Optimized Route: City_53 -> City_61
+  Total Distance: 2449955.00 meters
+
+Truck 4:
+  Optimized Route: City_61 -> City_45
+  Total Distance: 1043177.00 meters
+
+Truck 5:
+  Optimized Route: City_31 -> City_61
+  Total Distance: 650088.00 meters
+
+Truck 6:
+  Optimized Route: City_61 -> City_19
+  Total Distance: 1014465.00 meters
+
+Truck 7:
+  Optimized Route: City_61 -> City_19
+  Total Distance: 1014465.00 meters
+
+Truck 8:
+  Optimized Route: City_12 -> City_61
+  Total Distance: 1419630.00 meters
+
+Truck 9:
+  Optimized Route: City_31 -> City_61
+  Total Distance: 650088.00 meters
+
+Truck 10:
+  Optimized Route: City_61 -> City_51
+  Total Distance: 376758.00 meters
+
+Truck 11:
+  Optimized Route: City_31 -> City_61
+  Total Distance: 650088.00 meters
+
+Truck 12:
+  Optimized Route: City_61 -> City_51
+  Total Distance: 376758.00 meters
+
+Truck 13:
+  Optimized Route: City_61 -> City_51
+  Total Distance: 376758.00 meters
+
+Truck 14:
+  Optimized Route: City_31 -> City_61
+  Total Distance: 650088.00 meters
+
+Truck 15:
+  Optimized Route: City_61 -> City_47
+  Total Distance: 831613.00 meters
+
+Truck 16:
+  Optimized Route: City_61 -> City_6
+  Total Distance: 1819807.00 meters
+
+Truck 17:
+  Optimized Route: City_61 -> City_48
+  Total Distance: 1018238.00 meters
+
+Truck 18:
+  Optimized Route: City_61 -> City_46
+  Total Distance: 1044984.00 meters
+
+Truck 19:
+  Optimized Route: City_61 -> City_20
+  Total Distance: 1035830.00 meters
+
+Truck 20:
+  Optimized Route: City_55 -> City_61
+  Total Distance: 2283477.00 meters
+
+Truck 21:
+  Optimized Route: City_39 -> City_61
+  Total Distance: 545606.00 meters
+
+Truck 22:
+  Optimized Route: City_61 -> City_17
+  Total Distance: 993708.00 meters
+
+Truck 23:
+  Optimized Route: City_5 -> City_61
+  Total Distance: 2583758.00 meters
+
+Truck 24:
+  Optimized Route: City_61 -> City_15
+  Total Distance: 915332.00 meters
+
+Truck 25:
+  Optimized Route: City_27 -> City_61
+  Total Distance: 665119.00 meters
+
+Truck 26:
+  Optimized Route: City_35 -> City_61
+  Total Distance: 1719911.00 meters
+
+Truck 27:
+  Optimized Route: City_61 -> City_44
+  Total Distance: 1207054.00 meters
+
+Truck 28:
+  Optimized Route: City_61 -> City_44
+  Total Distance: 1207054.00 meters
+
+Truck 29:
+  Optimized Route: City_34 -> City_61
+  Total Distance: 1711790.00 meters
+
+Truck 30:
+  Optimized Route: City_55 -> City_61
+  Total Distance: 2283477.00 meters
+
+Truck 31:
+  Optimized Route: City_61 -> City_58
+  Total Distance: 1754492.00 meters
+
+Truck 32:
+  Optimized Route: City_25 -> City_61
+  Total Distance: 685905.00 meters
+
+Truck 33:
+  Optimized Route: City_37 -> City_61
+  Total Distance: 514547.00 meters
+
+Truck 34:
+  Optimized Route: City_61 -> City_13
+  Total Distance: 1783514.00 meters
+
+Truck 35:
+  Optimized Route: City_61 -> City_14
+  Total Distance: 1782893.00 meters
+
+Truck 36:
+  Optimized Route: City_25 -> City_61
+  Total Distance: 685905.00 meters
+
+Truck 37:
+  Optimized Route: City_5 -> City_61
+  Total Distance: 2583758.00 meters
+
+Truck 38:
+  Optimized Route: City_35 -> City_61
+  Total Distance: 1719911.00 meters
+
+Truck 39:
+  Optimized Route: City_61 -> City_4
+  Total Distance: 1775678.00 meters
+
+Truck 40:
+  Optimized Route: City_37 -> City_61
+  Total Distance: 514547.00 meters
+
+Truck 41:
+  Optimized Route: City_61 -> City_16
+  Total Distance: 1006447.00 meters
+
+Truck 42:
+  Optimized Route: City_28 -> City_61
+  Total Distance: 702949.00 meters
+
+Truck 43:
+  Optimized Route: City_61 -> City_57
+  Total Distance: 1776879.00 meters
+
+Truck 44:
+  Optimized Route: City_55 -> City_61
+  Total Distance: 2283477.00 meters
+
+Truck 45:
+  Optimized Route: City_61 -> City_38
+  Total Distance: 467939.00 meters
+
+Truck 46:
+  Optimized Route: City_61 -> City_7
+  Total Distance: 2064219.00 meters
+
+Truck 47:
+  Optimized Route: City_61 -> City_38
+  Total Distance: 467939.00 meters
+
+Truck 48:
+  Optimized Route: City_61 -> City_36
+  Total Distance: 1208350.00 meters
+
+Truck 49:
+  Optimized Route: City_25 -> City_61
+  Total Distance: 685905.00 meters
+
+Truck 50:
+  Optimized Route: City_61 -> City_36
+  Total Distance: 1208350.00 meters
+
+Truck 51:
+  Optimized Route: City_28 -> City_61
+  Total Distance: 702949.00 meters
+
+Truck 52:
+  Optimized Route: City_61 -> City_32
+  Total Distance: 555455.00 meters
+
+Truck 53:
+  Optimized Route: City_61 -> City_18
+  Total Distance: 960188.00 meters
+
+Truck 54:
+  Optimized Route: City_61 -> City_49
+  Total Distance: 6010.00 meters
+
+Truck 55:
+  Optimized Route: City_61 -> City_58
+  Total Distance: 1754492.00 meters
+
+Truck 56:
+  Optimized Route: City_61 -> City_18
+  Total Distance: 960188.00 meters
+
+Truck 57:
+  Optimized Route: City_61 -> City_52
+  Total Distance: 1612818.00 meters
+
+Truck 58:
+  Optimized Route: City_61 -> City_58
+  Total Distance: 1754492.00 meters
+
+Truck 59:
+  Optimized Route: City_61 -> City_58
+  Total Distance: 1754492.00 meters
+
+Truck 60:
+  Optimized Route: City_61 -> City_50
+  Total Distance: 60084.00 meters
+
+Truck 61:
+  Optimized Route: City_10 -> City_61
+  Total Distance: 1210200.00 meters
+
+Truck 62:
+  Optimized Route: City_61 -> City_3
+  Total Distance: 2362987.00 meters
+
+Truck 63:
+  Optimized Route: City_26 -> City_61
+  Total Distance: 1104693.00 meters
+
+Truck 64:
+  Optimized Route: City_61 -> City_8
+  Total Distance: 748329.00 meters
+
+Truck 65:
+  Optimized Route: City_61 -> City_49
+  Total Distance: 6010.00 meters
+
+Truck 66:
+  Optimized Route: City_61 -> City_58
+  Total Distance: 1754492.00 meters
+
+Truck 67:
+  Optimized Route: City_26 -> City_61
+  Total Distance: 1104693.00 meters
+
+Truck 68:
+  Optimized Route: City_10 -> City_61
+  Total Distance: 1210200.00 meters
+
+Truck 69:
+  Optimized Route: City_61 -> City_3
+  Total Distance: 2362987.00 meters
+
+Truck 70:
+  Optimized Route: City_26 -> City_61
+  Total Distance: 1104693.00 meters
+
+Truck 71:
+  Optimized Route: City_26 -> City_61
+  Total Distance: 1104693.00 meters
+
+Truck 72:
+  Optimized Route: City_61 -> City_21
+  Total Distance: 1368450.00 meters
+
+Truck 73:
+  Optimized Route: City_61 -> City_30
+  Total Distance: 795618.00 meters
+
+Truck 74:
+  Optimized Route: City_61 -> City_20
+  Total Distance: 1035830.00 meters
+
+Truck 75:
+  Optimized Route: City_61 -> City_50
+  Total Distance: 60084.00 meters
+
+Truck 76:
+  Optimized Route: City_61 -> City_8
+  Total Distance: 748329.00 meters
+
+Truck 77:
+  Optimized Route: City_61 -> City_52
+  Total Distance: 1612818.00 meters
+
+Truck 78:
+  Optimized Route: City_0 -> City_61
+  Total Distance: 634794.00 meters
+
+Truck 79:
+  Optimized Route: City_61 -> City_1
+  Total Distance: 671980.00 meters
+
+Truck 80:
+  Optimized Route: City_61 -> City_43
+  Total Distance: 1205827.00 meters
+
+Truck 81:
+  Optimized Route: City_61 -> City_20
+  Total Distance: 1035830.00 meters
+
+Truck 82:
+  Optimized Route: City_61 -> City_21
+  Total Distance: 1368450.00 meters
+
+Truck 83:
+  Optimized Route: City_61 -> City_56
+  Total Distance: 1759597.00 meters
+
+Truck 84:
+  Optimized Route: City_60 -> City_12 -> City_61
+  Total Distance: 2964060.00 meters
+
+Truck 85:
+  Optimized Route: City_61 -> City_33
+  Total Distance: 577041.00 meters
+
+Truck 86:
+  Optimized Route: City_61 -> City_41
+  Total Distance: 1364444.00 meters
+
+Truck 87:
+  Optimized Route: City_61 -> City_43
+  Total Distance: 1205827.00 meters
+
+Truck 88:
+  Optimized Route: City_59 -> City_61
+  Total Distance: 1672771.00 meters
+
+Truck 89:
+  Optimized Route: City_61 -> City_36
+  Total Distance: 1208350.00 meters
+
+Truck 90:
+  Optimized Route: City_59 -> City_61
+  Total Distance: 1672771.00 meters
+
+Truck 91:
+  Optimized Route: City_59 -> City_61
+  Total Distance: 1672771.00 meters
+
+Truck 92:
+  Optimized Route: City_61 -> City_48
+  Total Distance: 1018238.00 meters
+
+Truck 93:
+  Optimized Route: City_61 -> City_2
+  Total Distance: 652113.00 meters
+
+Truck 94:
+  Optimized Route: City_61 -> City_48
+  Total Distance: 1018238.00 meters
+
+Truck 95:
+  Optimized Route: City_23 -> City_61
+  Total Distance: 737676.00 meters
+
+Truck 96:
+  Optimized Route: City_61 -> City_52
+  Total Distance: 1612818.00 meters
+
+Truck 97:
+  Optimized Route: City_61 -> City_42
+  Total Distance: 908378.00 meters
+
+Truck 98:
+  Optimized Route: City_24 -> City_61
+  Total Distance: 737692.00 meters
+
+Truck 99:
+  Optimized Route: City_24 -> City_61
+  Total Distance: 737692.00 meters
+
+Truck 100:
+  Optimized Route: City_61 -> City_48
+  Total Distance: 1018238.00 meters
+
+Truck 101:
+  Optimized Route: City_35 -> City_61
+  Total Distance: 1719911.00 meters
+
+Truck 102:
+  Optimized Route: City_61 -> City_42
+  Total Distance: 908378.00 meters
+
+Truck 103:
+  Optimized Route: City_61 -> City_9
+  Total Distance: 1569908.00 meters
+
+Truck 104:
+  Optimized Route: City_23 -> City_61
+  Total Distance: 737676.00 meters
+
+Truck 105:
+  Optimized Route: City_23 -> City_61
+  Total Distance: 737676.00 meters
+
+Truck 106:
+  Optimized Route: City_61 -> City_21
+  Total Distance: 1368450.00 meters
+
+Truck 107:
+  Optimized Route: City_23 -> City_61
+  Total Distance: 737676.00 meters
+
+Truck 108:
+  Optimized Route: City_61 -> City_40
+  Total Distance: 1343112.00 meters
+
+Truck 109:
+  Optimized Route: City_61 -> City_8
+  Total Distance: 748329.00 meters
+
+Truck 110:
+  Optimized Route: City_61 -> City_40
+  Total Distance: 1343112.00 meters
+
+Truck 111:
+  Optimized Route: City_29 -> City_61
+  Total Distance: 693511.00 meters
+
+Truck 112:
+  Optimized Route: City_61 -> City_11 -> City_58
+  Total Distance: 2983681.00 meters
+
+Truck 113:
+  Optimized Route: City_3 -> City_50 -> City_61
+  Total Distance: 2398193.00 meters
+
+Truck 114:
+  Optimized Route: City_22 -> City_61 -> City_48
+  Total Distance: 1793713.00 meters
+
+Truck 115:
+  Optimized Route: City_61 -> City_44
+  Total Distance: 1207054.00 meters
+
+Truck 116:
+  Optimized Route: City_61 -> City_49
+  Total Distance: 6010.00 meters
+
+Truck 117:
+  Optimized Route: City_61 -> City_9
+  Total Distance: 1569908.00 meters
+
+Truck 118:
+  Optimized Route: City_53 -> City_24 -> City_28 -> City_61
+  Total Distance: 2537273.00 meters
+
+Truck 119:
+  Optimized Route: City_53 -> City_12 -> City_10 -> City_44 -> City_61 -> City_20
+  Total Distance: 4420506.00 meters
+
+Truck 120:
+  Optimized Route: City_59 -> City_44 -> City_26 -> City_23 -> City_28 -> City_24 -> City_61
+  Total Distance: 2515039.00 meters
+
+Truck 121:
+  Optimized Route: City_61 -> City_44 -> City_22 -> City_9
+  Total Distance: 2792811.00 meters
+
